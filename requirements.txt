@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+numpy
+plotly
+poliastro
+sgp4
+python-dateutil
