@@ -35,6 +35,7 @@ Built with a lot of late nights and love for the Indian space ecosystem 🇮🇳
 
 Made by **S.V. Badrinath**  
 ISRO VSSC Research Intern (2024)
+
 NATIONAL INSTITUTE OF TECHNOLOGY INTERN (2025)
 B.Tech AI & Data Science
 
